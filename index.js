@@ -1,5 +1,4 @@
-function add(){
-  var number
-  number = 1 + 80
+function add(a, b){
+return a + b   
 
 }
